@@ -6,7 +6,7 @@ This website is developed using **html**, **css** and **javascript**.
 
 
 ## Pages
-It contains 3 pages-
+It contains 4 pages-
 * Landing page (Home page)
 * Product details page
 * About Us page
