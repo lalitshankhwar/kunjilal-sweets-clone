@@ -2,6 +2,7 @@
 # Kunjilal Sweets Clone
 
 This website is developed using **html**, **css** and **javascript**.
+* **View live**: https://lalitshankhwar.github.io/kunjilal-sweets-clone
 
 
 ## Pages
