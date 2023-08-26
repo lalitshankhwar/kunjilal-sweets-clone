@@ -1,7 +1,7 @@
 
 # Kunjilal Sweets Clone
 
-This website is developed using **html**, **css** and **javascript**.
+This website is developed using **HTML**, **SCSS**, **JavaScript**, **OwlCarousel** and **Bootstrap**.
 * **View live**: https://lalitshankhwar.github.io/kunjilal-sweets-clone
 
 
